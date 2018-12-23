@@ -1,5 +1,6 @@
 class Kush{
   private String name;
-  private String address;
-  private int age;
+  private String wife;
+  private String children;
+ 
   }
